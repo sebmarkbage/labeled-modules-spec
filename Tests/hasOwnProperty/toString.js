@@ -1,0 +1,1 @@
+exports: var toString = valueOf;
